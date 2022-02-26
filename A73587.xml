@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Newes come latle fro[m] Pera of two most mighti armies as wel of foteme[n] as of horsme[n], tra[n]slated out of Italien, to Fre[n]che and so into Engleshe. And first of the great Duke of Moscouia [and] of the Soffy, and y[e] othere of an Hebrewe people neuer spoken of before, fou[n]de not lo[n]g ago comming from y[e] mountaines called Caspii, with a newe inuencio[n] of weapons, with y[e] nomber of y[e] squadrons, and with the names of two earles [and] capitayns. And the cause whi y[e] great Turk hath forbydde[n] wyne, with mani other newes neuer hard of.</title>
+            <author>Buonaccorsi, Andrea.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1561</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73587</idno>
+            <idno type="STC">STC 4102.3</idno>
+            <idno type="STC">ESTC S124657</idno>
+            <idno type="EEBO-CITATION">99898979</idno>
+            <idno type="PROQUEST">99898979</idno>
+            <idno type="VID">150815</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73587)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150815)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1982:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Newes come latle fro[m] Pera of two most mighti armies as wel of foteme[n] as of horsme[n], tra[n]slated out of Italien, to Fre[n]che and so into Engleshe. And first of the great Duke of Moscouia [and] of the Soffy, and y[e] othere of an Hebrewe people neuer spoken of before, fou[n]de not lo[n]g ago comming from y[e] mountaines called Caspii, with a newe inuencio[n] of weapons, with y[e] nomber of y[e] squadrons, and with the names of two earles [and] capitayns. And the cause whi y[e] great Turk hath forbydde[n] wyne, with mani other newes neuer hard of.</title>
+                  <author>Buonaccorsi, Andrea.</author>
+               </titleStmt>
+               <extent>[16+] p.   </extent>
+               <publicationStmt>
+                  <publisher>W. Copland,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1561]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from STC.</note>
+                  <note>Signatures: pi.</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Turkey --  History --  Early works to 1800.</term>
+               <term>Turkey --  Militia --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150815:1" rendition="simple:additions"/>
+            <pb facs="tcp:150815:1"/>
+            <pb facs="tcp:150815:2" rendition="simple:additions"/>
+            <p>Newes come <hi>latle fro<g ref="char:cmbAbbrStroke">̄</g> Pera, of two moſt mighti</hi> Armies as wel of Foteme<g ref="char:cmbAbbrStroke">̄</g> as of Horſ<g ref="char:EOLunhyphen"/>me<g ref="char:cmbAbbrStroke">̄</g>, tra<g ref="char:cmbAbbrStroke">̄</g>ſlated out of Italien, to Fre<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>che and ſo into Engleſhe. And firſt of the great Duke of Moſcouia &amp; of the Soffy, And y<hi rend="sup">e</hi> othere of an Hebrewe people neuer ſpoken of before, fou<g ref="char:cmbAbbrStroke">̄</g>de not lo<g ref="char:cmbAbbrStroke">̄</g>g ago comming from y<hi rend="sup">e</hi> Moun<g ref="char:EOLhyphen"/>taines called Caſpii, with a newe in<g ref="char:EOLhyphen"/>uencio<g ref="char:cmbAbbrStroke">̄</g> of Weapons, with y<hi rend="sup">e</hi> nomber of y<hi rend="sup">e</hi> Squadrons, and with the names of two Earles &amp; Capitayns. And the cauſe whi y<hi rend="sup">e</hi> great Turk hath forbyd<g ref="char:EOLhyphen"/>de<g ref="char:cmbAbbrStroke">̄</g> wyne, with mani other newes ne<g ref="char:EOLhyphen"/>uer hard of.</p>
+            <p>
+               <figure>
+                  <figDesc>depiction of two groups of knights in armour on horseback charging each other, with weapons and bodies on the ground</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:150815:3"/>
+            <pb facs="tcp:150815:3"/>
+            <p>
+               <seg rend="decorInit">A</seg>Fter y<hi rend="sup">e</hi> particuler thinges alleged in mi writynge, to your lordſhip, I thought it good and conuenient by this my letter to aduertiſe you ſingu<g ref="char:EOLunhyphen"/>larelie of certayne great, horrible, &amp; feareful thinges that are reported in this quarter. In the other letter that I wrote vnto your lordſhip I ſhewed you the pompe and great triumphe at the preſentinge of the capitaine of the ſea, vnto the great Turke, The miſerye and vnhappines of the poore pryſoners. The dyſcords and conten<g ref="char:EOLhyphen"/>tion that came by the ſonne of y<hi rend="sup">e</hi> Vice Roy of Naples, beinge priſoner.</p>
+            <p>The threatninges made to the Chri<g ref="char:EOLhyphen"/>ſtians. The receiuinge of y<hi rend="sup">e</hi> ambaſſa<g ref="char:EOLhyphen"/>dours of the Soffy. The pompes, try<g ref="char:EOLunhyphen"/>umphes, &amp; intertaynementes made vnto the<g ref="char:cmbAbbrStroke">̄</g>, and yet diſſembled inough with mocking one the other, at their departing.</p>
+            <p>The preſents giuen. The going of y<hi rend="sup">e</hi> great Turke a Huntinge, &amp; al <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>r thinges writen at large, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>der<g ref="char:EOLunhyphen"/>ſtod of your lordſhip. But i<g ref="char:cmbAbbrStroke">̄</g> another letter of mine I told you of the prepa<g ref="char:EOLunhyphen"/>ration of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> armye: of y<hi rend="sup">e</hi> braue &amp; proud Triumphe of this Turke &amp; howe ye chaunged ſodainly euen in a mome<g ref="char:cmbAbbrStroke">̄</g>t <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a murning <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or heaue<g ref="char:cmbAbbrStroke">̄</g> toke theſe
+<pb facs="tcp:150815:4"/> thinges i<g ref="char:cmbAbbrStroke">̄</g> diſdayne bi a great mortali<g ref="char:EOLhyphen"/>te and death, which was ſo much the worſe bicauſe ye begane in the begin<g ref="char:EOLhyphen"/>nyng of Somer. Ther happened alſo afterward i<g ref="char:cmbAbbrStroke">̄</g> the ſame towne (paradue<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ture neuer the lyke) to wete, a great &amp; continuall derth of al thinges. A hori<g ref="char:EOLunhyphen"/>ble and fearfull chaunce whiche was vpo<g ref="char:cmbAbbrStroke">̄</g> the Sea called Mare Maius, the loſſe of the great multitud of ſhippes the ſorow of the great Turke for the prohibjcio<g ref="char:cmbAbbrStroke">̄</g> of wine to his loſſe and he<g ref="char:EOLhyphen"/>drance more tha<g ref="char:cmbAbbrStroke">̄</g> a hundreth and fifty thouſand Ducates. The cruelty vſed toward a Turk that had dronk wine puttynge him to death by powringe molten Leade into his throte. The driuing out of whores of this towne The prohibicio<g ref="char:cmbAbbrStroke">̄</g> and forbydding that no Chriſtia<g ref="char:cmbAbbrStroke">̄</g> being maried, may dwell there, the defence that no Turke ſhal were any Beard. Al y<hi rend="sup">e</hi> which things eyther cauſeth a great wondering, fe<g ref="char:EOLunhyphen"/>re, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſorow, ſo that me<g ref="char:cmbAbbrStroke">̄</g> ſay that the grea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ke raueth, or y<hi rend="sup">t</hi> he do the yt for y<hi rend="sup">e</hi> nons, to the intent that his ſo<g ref="char:cmbAbbrStroke">̄</g>ne Selim<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> returning theſe forſaid thin<g ref="char:EOLunhyphen"/>ges unto him (myght get the fauoure of the Geniſſaries. I haue dyſcourſed this, and can yet make reherſal of ma<g ref="char:EOLhyphen"/>ny thinges vpon theſe matters <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:150815:4"/> thing of greater importa<g ref="char:cmbAbbrStroke">̄</g>ce dyd pluck me away from it, and ſo I leue it of.</p>
+            <p>But now men ſhal vnderſta<g ref="char:cmbAbbrStroke">̄</g>d at this tyme the greateſt, the moſt wo<g ref="char:cmbAbbrStroke">̄</g>derful &amp; moſt horrible thinge that euer was herde of. The which partli hath ſo tro<g ref="char:EOLunhyphen"/>bled y<hi rend="sup">e</hi> greate Turke. and al the reſte, that the haue left of al other affaires, to prouyde for the peril &amp; danger that at this time hangeth ouer their heade &amp; carieth them. Newes are come that the kyng of Spayne waketh a greate armye, which ſhal haue for his eide y<hi rend="sup">e</hi> Galeys of Gene of Malte, of Flore<g ref="char:cmbAbbrStroke">̄</g>ce of Naple, &amp; of mani other Princes of chriſtendome. And they ſai more ouer that the king of France wil help ther<g ref="char:EOLunhyphen"/>in, and that the moſt part of Chriſtia<g ref="char:cmbAbbrStroke">̄</g> Prynces wyll come and ayde hym in this enterprice, except the moſt noble ſtate &amp; Sinorie of venyce which med<g ref="char:EOLhyphen"/>deleth nothing at all it. Theſe repor<g ref="char:EOLhyphen"/>ters of newes affirme that there ſhall more the<g ref="char:cmbAbbrStroke">̄</g> a hundreth galeys, beſyde o<g ref="char:EOLhyphen"/>ther Barkes Shippes and Hulkes w<hi rend="sup">t</hi> out no<g ref="char:cmbAbbrStroke">̄</g>ber, which is occaſion that thei haſt the armye the more. The whiche thyng not withſtandyng men eſteme not ſo much as the ware that is made beyond the Mountaynes, as you ſhal vnderſtand not wythout gret wonde<g ref="char:EOLunhyphen"/>ring
+<pb facs="tcp:150815:5"/> at it. The Tartares make freen<g ref="char:EOLunhyphen"/>des vpon the greter ſea &amp; haue made a leage and frendſhippe with y<hi rend="sup">e</hi> great Turke, requiringe ayde, for they are moleſted with warre by y<hi rend="sup">e</hi> gret duke of Moſcouia, and prince of Sagodie, of Pogore, of Smo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>egye, of Droſſye, of Gazam, of Virg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>loſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, of Cerea<g ref="char:EOLhyphen"/>rie, of cham, of Bieracham, lateli got<g ref="char:EOLunhyphen"/>ten of the Cirenſſiens, and of diuers other people and regions lyenge to<g ref="char:EOLhyphen"/>ward the South. They ſay that this emperour or duke hath two armyes, and is called Iho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Dw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tillo, a yong ma<g ref="char:cmbAbbrStroke">̄</g> of the age of .xxiiii. yeares, noble and valiaunt, and a chriſtia<g ref="char:cmbAbbrStroke">̄</g> after the inſtitucion of the Grekes, and preſu<g ref="char:EOLhyphen"/>meth that by reaſon of his bloude the empire of Conſta<g ref="char:cmbAbbrStroke">̄</g>tinople doth belo<g ref="char:cmbAbbrStroke">̄</g>g to him. And theſe two armies are a<g ref="char:EOLhyphen"/>bout a two hundred thouſand horſe. They were not wont in time paſt to be ſo ſtronge, nor ſo feared of y<hi rend="sup">e</hi> Tur<g ref="char:EOLhyphen"/>kes, for they had not the vſe of artilla<g ref="char:EOLhyphen"/>rie in the warre. But now they haue maruaylous great preparacio<g ref="char:cmbAbbrStroke">̄</g> their warre. He hathe in wages certayne Duch capitaynes. And aboute a ten thouſand maiſter gonners, &amp; is mer<g ref="char:EOLunhyphen"/>uelous well furneſhed with harkebu<g ref="char:EOLunhyphen"/>ſes &amp; artillery. And becauſe me<g ref="char:cmbAbbrStroke">̄</g> vnder<g ref="char:EOLunhyphen"/>ſtand that he hath ſo dreſt y<hi rend="sup">e</hi> Tartari<g ref="char:EOLhyphen"/>e<g ref="char:cmbAbbrStroke">̄</g>s
+<pb facs="tcp:150815:5"/> &amp; brought them to ſuch a ſtate that the ca<g ref="char:cmbAbbrStroke">̄</g> not much more reſiſt him. And that if y<hi rend="sup">t</hi> ſayde Moſcouites ſhoulde be maiſters ouer y<hi rend="sup">e</hi> Tartares the ſhould conſequentli be rulers of the greater ſea, &amp; the way ſhould be ope<g ref="char:cmbAbbrStroke">̄</g> and eaſy for them to come, not only to Conſta<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>tinople, but alſo to dryue y<hi rend="sup">e</hi> turke out of Europe. And becauſe that the ſaid great Turke is aſſured of this enter<g ref="char:EOLhyphen"/>pryſe and commocio<g ref="char:cmbAbbrStroke">̄</g> of the Greekes, he hath concluded &amp; deteermined, to ſe<g ref="char:cmbAbbrStroke">̄</g>d to they ſayd Tartares a good aſſy<g ref="char:EOLunhyphen"/>ſtaunce of fiftene thouſand fightinge men &amp; alſo for this purpoſe he hathe ſent to the ſea, te<g ref="char:cmbAbbrStroke">̄</g> galeyes to paſſe the<g ref="char:cmbAbbrStroke">̄</g> ouer. Men make mencio<g ref="char:cmbAbbrStroke">̄</g> and dought of Mo<g ref="char:cmbAbbrStroke">̄</g>datcio, which is a great prince and rular, &amp; able to make fourſcore or a hundred thouſand horſe. And yet me<g ref="char:cmbAbbrStroke">̄</g> are vncertaine whoſe part he wil take, becauſe he is tributar: vnto the great Turke. Ther is newes alſo fro<g ref="char:cmbAbbrStroke">̄</g> Affrica, that the king of Bugien, the king of Tramece, the king of Tunts the children of Serit. The lorde of Murocho &amp; of Gran with the Arra<g ref="char:EOLhyphen"/>bians and other haue take<g ref="char:cmbAbbrStroke">̄</g> in ha<g ref="char:cmbAbbrStroke">̄</g>d to driue and expulſe the turke holly out of Affrica, and to endomage the ſayd turke as much as the may. Me<g ref="char:cmbAbbrStroke">̄</g> know not well yet in what place they wyll warre. But we ſhal know it ſhortely
+<pb facs="tcp:150815:6" rendition="simple:additions"/> The newys alſo is that y<hi rend="sup">e</hi> Soffy is in Campe with a great army, and hath the Medes to helpe him which border vpon the Caſpian Sea, and of on ſide neighbour to y<hi rend="sup">e</hi> Hyrea<g ref="char:cmbAbbrStroke">̄</g>s, called at this daye Correxans and Necotans, with who<g ref="char:cmbAbbrStroke">̄</g> he hath made a League &amp; peace. And ther are on hys ſyde alſo the Ibe<g ref="char:EOLunhyphen"/>ians, and Albanians, and alſo the peo<g ref="char:EOLunhyphen"/>ple of Melibax whych border vpo<g ref="char:cmbAbbrStroke">̄</g> the Yndians, and likewiſe with the king of Boſphorus, all beyng peple merue<g ref="char:EOLunhyphen"/>lous ſwift &amp; nymble. In this ſo migh<g ref="char:EOLhyphen"/>ty an hoſt and armie is alſo Baicey y<hi rend="sup">e</hi> ſo<g ref="char:cmbAbbrStroke">̄</g>ne of the great Turke, By meanes wherof, all in thoſe partes is in grate trouble, as well as here, It ſeemeth y<hi rend="sup">t</hi> the Genyſſaryes bring him the lot of Turki, as Baduget, Nermonia, Ale<g ref="char:EOLhyphen"/>po, and al the Region lyeng nere to y<hi rend="sup">e</hi> Soffe is reuolted, Al the which parti<g ref="char:EOLhyphen"/>cularites ſhalbe vnderſtode moore at large. This newes is great, and hath made y<hi rend="sup">e</hi> great Turke to muſe inough vpo<g ref="char:cmbAbbrStroke">̄</g> it. But aboue all theſe maruelus and dreadfull newes which ar happe<g ref="char:EOLunhyphen"/>ned ther is yet chau<g ref="char:cmbAbbrStroke">̄</g>ced another whi<g ref="char:EOLhyphen"/>ch hath ſered &amp; a baſhed generally all me<g ref="char:cmbAbbrStroke">̄</g> which neuertheleſſe ſeemeth to be incredible. And yet it is moſt certaine &amp; that is, that a people here to fore vn<g ref="char:EOLhyphen"/>knowen,
+<pb facs="tcp:150815:6" rendition="simple:additions"/> myghty, ſwifte, and merue<g ref="char:EOLhyphen"/>lous nymble, hath taken weapo<g ref="char:cmbAbbrStroke">̄</g> i<g ref="char:cmbAbbrStroke">̄</g> ha<g ref="char:cmbAbbrStroke">̄</g>d to the dyſaduantage &amp; loſſe of y<hi rend="sup">e</hi> howſe of Ottoman. They ſay that Alexa<g ref="char:cmbAbbrStroke">̄</g>der the great did i<g ref="char:cmbAbbrStroke">̄</g> tyme paſt dryue beyo<g ref="char:cmbAbbrStroke">̄</g>d the Mountayne Caſpe nyne trybes &amp; a halfe of the Hebrewes wich worſhi<g ref="char:EOLhyphen"/>ped the Calfe and Serpe<g ref="char:cmbAbbrStroke">̄</g>t of gold, and draue them a waye, y<hi rend="sup">t</hi> neuer ſins there was no newes of them, nether knewe any man yf thei were in the worlde or not. But bycauſe the ſea of Sand or y<hi rend="sup">e</hi> ſandy ſea, By a certaine inco<g ref="char:cmbAbbrStroke">̄</g>uenie<g ref="char:cmbAbbrStroke">̄</g>ce of ſa<g ref="char:cmbAbbrStroke">̄</g>d Grauell or Beche, ſwelled and roſe ſo high y<hi rend="sup">t</hi> it vtterly toke from the<g ref="char:cmbAbbrStroke">̄</g> the wai into this our regio<g ref="char:cmbAbbrStroke">̄</g>. But now by the meane of the newe Nauigacio<g ref="char:cmbAbbrStroke">̄</g> that the Spaneardes haue made, thei ar ariued in their country, and haue eſpied out al their doynges. And after that the ſaid Spaniardes had inſtruc<g ref="char:EOLunhyphen"/>ted and taught them they ſcience and knowledge of artyllerye, &amp; gon poul<g ref="char:EOLhyphen"/>der for Harkebuſes &amp; Dagges wher<g ref="char:EOLunhyphen"/>vnto there horſes ar maruelous apt &amp; ready, the are beco<g ref="char:cmbAbbrStroke">̄</g> in al thinges verye parfyt. After this, the egged them for warde to take weapon in hand and to paſſe y<hi rend="sup">e</hi> ſayde Mountain by land. And bycauſe the ſea of ſand o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſandy ſe dyd hynder th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r paſſage, it appereth
+<pb facs="tcp:150815:7" rendition="simple:additions"/> y<hi rend="sup">t</hi> ſome Spaniard or Italien, which yet men know not, but not withſtan<g ref="char:EOLunhyphen"/>ding, ſome great Aſtrologian or Coſ<g ref="char:EOLunhyphen"/>mographer taught the<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">e</hi> way maki<g ref="char:cmbAbbrStroke">̄</g>g ſome hill playne with her, ſo that the made the<g ref="char:cmbAbbrStroke">̄</g> ſelues a wai veriely, which is a thi<g ref="char:cmbAbbrStroke">̄</g>g of great wonder. Now theſe peple haue two mighty great armies &amp; infinite victuals, they cou<g ref="char:cmbAbbrStroke">̄</g>trey bei<g ref="char:cmbAbbrStroke">̄</g>g very fertyle &amp; fruitful, &amp; alſo almaner of preporacio<g ref="char:cmbAbbrStroke">̄</g> for warre, &amp; there are Spaniardes amo<g ref="char:cmbAbbrStroke">̄</g>g them ſo wel exer<g ref="char:EOLhyphen"/>ciſed in the feate of Artillerye, as ha<g ref="char:cmbAbbrStroke">̄</g>d go<g ref="char:cmbAbbrStroke">̄</g>nes and dagges. that is a wonder. And they ſaye, that they wyll come &amp; recouer y<hi rend="sup">e</hi> lande of promiſe, towarde the which the firſt armi is already ve<g ref="char:EOLunhyphen"/>ri nere, not without great terror and dread of euery man, which hath bene ſene of dyuers &amp; nombred, and final<g ref="char:EOLhyphen"/>ly report to the great turke, bothe the number and qua<g ref="char:cmbAbbrStroke">̄</g>titee as you ſhal vn<g ref="char:EOLhyphen"/>derſtand here folowing.</p>
+            <p>The ſpies ſay, not only one, but ma<g ref="char:EOLhyphen"/>ny, that would ſee and vnderſtand al thinges, that the Saugiatari whiche border vpon them &amp; are their neigh<g ref="char:EOLhyphen"/>bours wryte &amp; teſtifie, that beſyde a hundred and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o armyes ther folow other infinit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> people, as wel fotemen, as horſemen, and y<hi rend="sup">t</hi> firſt armye is al<g ref="char:EOLhyphen"/>redy
+<pb facs="tcp:150815:7"/> arryued vpon the limytes &amp; bor<g ref="char:EOLhyphen"/>ders of the Turkes, and put al to fire and ſworde. And their langage is ba<g ref="char:EOLhyphen"/>ſtard Ebrew. And becauſe me<g ref="char:cmbAbbrStroke">̄</g> ſpeake of it much heare: I wyll not forget to ſpeake alſo ſome thing therof worthi to be noted, and wel vnderſtode. The Hebreues of Conſta<g ref="char:cmbAbbrStroke">̄</g>tinoble ſaye that the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>atie certayne propheſies amo<g ref="char:cmbAbbrStroke">̄</g>g the whyche the one maketh mencion that from the fower parte of y<hi rend="sup">e</hi> world ſhall ryſe a people and come i<g ref="char:cmbAbbrStroke">̄</g>to Gog &amp; Magog, and then ſhall appeare (as they perſwade them ſelues ther Meſ<g ref="char:EOLhyphen"/>ſias in might and power, &amp; then they ſhall haue domynyon and rule in the world, wherof they ſecretly reioyce &amp; are wonderous glad. They ſay more ouer that ther is a Propheſie graue<g ref="char:cmbAbbrStroke">̄</g> i<g ref="char:cmbAbbrStroke">̄</g> a pillar ſet at Podromo, which ſaith thus. A mighty prince ſhall riſe, whoſe beginning ſhall be of ſmall re<g ref="char:EOLhyphen"/>putacion, but he ſhall ware of ſuche force and ſtrengthe (with the helpe of god (that he ſhal bring to nothing the empire and rule of Ottoman, &amp; ſhall be the righte poſſeſſour and inhery<g ref="char:EOLhyphen"/>tour of y<hi rend="sup">e</hi> empire of Conſtantinoble. And the valeur <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>be this Em<g ref="char:EOLunhyphen"/>perour &amp; d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, which is
+<pb facs="tcp:150815:8" rendition="simple:additions"/> all ready in great eſtymacion among the Greckes. The Turkes haue a pro<g ref="char:EOLunhyphen"/>pheci which thei ſyng al waies in we<g ref="char:EOLhyphen"/>epping bytterly, which berokeneth &amp; denounceth vnto the their vtter ruin and deſtruccio<g ref="char:cmbAbbrStroke">̄</g>. And although it ſems ſtrau<g ref="char:cmbAbbrStroke">̄</g>g to ſay y<hi rend="sup">t</hi> the Turkes haue pro<g ref="char:EOLhyphen"/>pheſies, it is no meruele: For Balam was a falſe Prophete. The Sybilles propheſied &amp; were Paganes. For all theſe cauſes the great Turk hath for<g ref="char:EOLhyphen"/>bydden wyne, and wyll that alme<g ref="char:cmbAbbrStroke">̄</g> go true tymes in a day to the Moſchea, &amp; pray to god for their helth and ſaftie. And ſo he prepareth .3. great Armyes on a gaynſt the Moſcouites, another againe the Soffy, and the third for to go agaynſte the Hebrewes of y<hi rend="sup">e</hi> Mou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>taynes of Caſpii. Within theſe fewe dais you ſhal haue other news, wher<g ref="char:EOLunhyphen"/>fore this making an ende I com<g ref="char:EOLhyphen"/>mende me vnto your good grace</p>
+            <closer>
+               <dateline>from Pera <date>the fyrſt daye of of Marche. 1561.</date>
+               </dateline>
+               <signed>your faythfull and truſty ſeruant, Andrew Ben accorſo,</signed>
+            </closer>
+         </div>
+         <div type="account">
+            <div type="part">
+               <pb facs="tcp:150815:8" rendition="simple:additions"/>
+               <head>The deſcripcion of the fyrſt <hi>Armye of the Ebrewes.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">F</seg>Yrſt of all of y<hi rend="sup">e</hi> trybe of Ruben a kyng of very great ſtature of a fleſhi colour, more red the<g ref="char:cmbAbbrStroke">̄</g> o<g ref="char:EOLhyphen"/>therwyſe, withe brode eies, called Loroam, is capitaine general of al the Armyes which ledeth vnder hys Enſaigne twelue thouſand Horſe &amp; xx thouſand fote men. The horſemen are Armed after a lyght ſort but veri good Harneſe almoſt after our facio<g ref="char:cmbAbbrStroke">̄</g>. The crri long launces of long redes veri hard and lyght, ſo ſharp pointed that the paſſe thorowe a thing ſo ligh<g ref="char:EOLunhyphen"/>tely that it is incredable. The cary ſhyld or Targetes of bone, &amp; in ſtead of ſwordes certayne Courtylaſſes.</p>
+               <p>They are aparayled with the colour of ther enſaigne, and al clothed with Sylke. The fote me<g ref="char:cmbAbbrStroke">̄</g> carry Pykes of the ſame ſorte with Helmet &amp; Haber<g ref="char:EOLunhyphen"/>gyn. Their Enſaigne is of black ſilk &amp; blewe, with a Dogge folowinge a Hart or Bucke and a ſayeng wrytte<g ref="char:cmbAbbrStroke">̄</g> in it which is in our tong eyther quy<g ref="char:EOLunhyphen"/>ke or deade.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:150815:9"/>
+               <head>ii. Of the Trybe of Gad.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Here is one called Fa<g ref="char:EOLhyphen"/>res whyche is an Erle, younge and valyan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not regardyng this preſente lyfe. This man hathe fiftene hundred horſe<g ref="char:EOLhyphen"/>men armed lightly onely on the fore part and head peece: but this armure is ſo wel tempered and wrought that it kepeth out alance and harquebuſe-ſhotte.</p>
+               <p>This manner of arminge them ſelfe the prynce, to the intent the maye ne<g ref="char:EOLhyphen"/>uer turne ther backe to runne away. The bane alſo fiers and light horſes. There are eyghtene thouſand foote<g ref="char:EOLhyphen"/>men appareled with a kynd of ſodod leather, of the ſkyn of a certane beaſt, ſo that no pike nor hargebuſhe canne perle it. Theſe me<g ref="char:cmbAbbrStroke">̄</g> are beaſtly people which wyl neuer fly for any thinge, and are very obedyet and ſubiect vn<g ref="char:EOLhyphen"/>to ther prynce, they are apparelled in ſilke. And the eſeigne is a falcon pec<g ref="char:EOLhyphen"/>king or byllynge with another birde with a ſentence that ſaieth. Ether thine or mine ſhal breake,</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:150815:9"/>
+               <head>iii. Of the tribe of Aſſer.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Here is a Marquiſe of gala<g ref="char:EOLhyphen"/>ir called Gooes. Thys man leadeth fyftene hundred me<g ref="char:cmbAbbrStroke">̄</g> at armes, which be all exce<g ref="char:EOLhyphen"/>dynglye well armed, &amp; it oute, ſtro<g ref="char:cmbAbbrStroke">̄</g>ge, and rebuſt men Theyr horſes be mo<g ref="char:EOLunhyphen"/>ryſkes, the greateſt the ſtrongeſt, the fayreſte, and the beſte that be in the world. There are alſo ſeue<g ref="char:cmbAbbrStroke">̄</g>tene thou<g ref="char:EOLhyphen"/>ſand ſouldyars very well ordred and apoynted with lance &amp; Harquebuſe. Their Enſine or armes is a red field with a mayde clothed in greene, hol<g ref="char:EOLhyphen"/>dynge a lyon in her hande, and hathe theſe wordes I hope to ſubdue a gre<g ref="char:EOLhyphen"/>ater thynge.</p>
+            </div>
+            <div type="part">
+               <head>iiii. Of the tribe of Neptalym.</head>
+               <p>THer is a duke of Falach, called Obeth, who hath vnder his co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>duct .xx. thouſand footmen ar<g ref="char:EOLhyphen"/>med with a certayne metal lyke yron but it is light &amp; hard. They haue ma<g ref="char:cmbAbbrStroke">̄</g>i good ſwordes, lances and other force Harquebuſes and witie lars. Theyr Enſeigne or armes is a Mermayd in a blacke fyeld, &amp; thei deuiſe thus. My ſinging ſhall not ceaſſe vntyl death.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:150815:10"/>
+               <head>V. Manaſſes.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>F y<hi rend="sup">e</hi> Trybe of Monaſſes ther is a Captayn called Natiſon which hath vn<g ref="char:EOLhyphen"/>der hym .xx. thouſa<g ref="char:cmbAbbrStroke">̄</g>d me<g ref="char:cmbAbbrStroke">̄</g> apointed &amp; armed with y<hi rend="sup">e</hi> ſkine of a ſerpent moſte hard &amp; ſtiffe The haue axes or Pollaxes, Pikes, Harquebuſhes, and other kyndes of weapons ſhewing a great brauery. And ther Enſene or armes is a whit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſnale in a black fyelde, with a deuyle a boute it. By lyttle and little me<g ref="char:cmbAbbrStroke">̄</g> goe verye farre.</p>
+               <p>vi. Of the tribe of Symeon the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> prince of Arſai whoſe na<g ref="char:cmbAbbrStroke">̄</g>e is not yet knowen. But thei ſaye he is a deuyll, greate, groſſe, &amp; thycke beyond mea<g ref="char:EOLhyphen"/>ſure, with a ſtatte noſe, and bothe he &amp; his men are ſo of the ſtature of gy<g ref="char:EOLhyphen"/>antes. And leadeth wyth hym twety thouſand fotemen almoſt al Alfiers. Which are alſo ſwifte and nymbell, that they wyl take horſes runnynge, thei make a meruelous noyſe ſuch as no people vſe. There Enſeigne is an Cute in a black fielde, &amp; haue for ther poſy. Such is my gouerment.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
